@@ -59,7 +59,7 @@ The notebook covers parameter estimation (MLE/MAP), classifier implementation, p
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/ModelFitting-Classification-Techniques.git
+    git clone https://github.com/amankhatamsaz/ModelFitting-Classification-Techniques.git
     cd ModelFitting-Classification-Techniques
     ```
 2.  **Ensure you have Python 3 installed.**
